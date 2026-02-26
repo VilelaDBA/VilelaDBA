@@ -6,9 +6,16 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 ##
+
+<img  width="200" height="180" alt="image" alt="  " align="right" src="https://github.com/user-attachments/assets/004cbe11-fe64-4b37-b7c6-88c77d6994a1" />
+
+
+
 <p align="center">Sou estudante de tecnologia, apaixonada por aprendizado e desenvolvimento em Python. Atualmente estou focada em aprimorar minhas habilidades em lógica de programação, análise de dados e criação de projetos práticos para fortalecer meu portfólio.Estou construindo minha jornada na área de tecnologia com dedicação, disciplina e muita vontade de aprender. Busco oportunidades de estágio onde eu possa crescer profissionalmente, contribuir com a equipe e continuar evoluindo a cada desafio.
 
+
 ##
+<h3 align="left">Connect with me!</h3>
 <div> 
   <a href="https://www.instagram.com/linevilela_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatovilelaaline398@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,7 +25,7 @@
 
 ##
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vilela-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Vilela-Sqldeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
@@ -29,6 +36,15 @@
   <img align="center" alt="Vilela-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </div>
   
+
+##
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VilelaDBA/VilelaDBA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VilelaDBA/VilelaDBA/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VilelaDBA/VilelaDBA/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
